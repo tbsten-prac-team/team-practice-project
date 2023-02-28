@@ -1,0 +1,20 @@
+{
+  "name": "tbsten",
+  "version": "1.0.0",
+  "description": "# 開発に参加",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbsten-prac-team/team-practice-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbsten-prac-team/team-practice-project/issues"
+  },
+  "homepage": "https://github.com/tbsten-prac-team/team-practice-project#readme"
+}
